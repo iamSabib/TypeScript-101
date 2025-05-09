@@ -1,4 +1,3 @@
-````markdown
 # 🧠 TypeScript for Humans: Understanding Type Inference & Code Quality
 
 Hey there! 👋  
